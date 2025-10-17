@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/kalilll/kalilll/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/kalilll/kalilll/output/snake.svg" alt="Snake animation" />
 
 ###
